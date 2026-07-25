@@ -96,23 +96,6 @@ EXPLAINABILITY ◄──────────── PRODUCTION ────�
 
 ---
 
-## Current Project: Pharma Supply Intelligence
-
-```mermaid
-flowchart LR
-    A[7 Free APIs] --> B[Neo4j + Qdrant]
-    B --> C[Multi-Signal<br/>Anomaly Detection]
-    C --> D[LangGraph<br/>Deep Agent]
-    D --> E[Governance<br/>+ Audit]
-    D --> F[Human Review]
-```
-
-Building an autonomous AI platform that monitors pharma supply data, detects anomalies using **rules + statistical + graph + semantic** signals, and validates them via a **LangGraph agent with MCP tools** — with full **governance, audit trails, and human-in-the-loop**.
-
-→ [github.com/milangeorge2000/pharma-supply-intelligence](https://github.com/milangeorge2000/pharma-supply-intelligence)
-
----
-
 ## What I Care About
 
 | Value | How I Practice It |
