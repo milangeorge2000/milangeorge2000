@@ -22,7 +22,8 @@ status: Building pharma supply intelligence platform
 
 <div align="center">
   <a href="https://github.com/milangeorge2000"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/milangeorge2000"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/milan-george-744772188/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://milanvg6.substack.com/"><img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/AI%20Engineer-FF6F00?style=for-the-badge&logo=deeplearning&logoColor=white"/>
   <img src="https://komarev.com/ghpvc/?username=milangeorge2000&style=for-the-badge&color=brightgreen"/>
 </div>
@@ -94,6 +95,21 @@ EXPLAINABILITY ◄──────────── PRODUCTION ────�
 ![FastMCP](https://img.shields.io/badge/MCP-5C5C5C?style=flat-square&logo=modelcontextprotocol&logoColor=white)
 
 ---
+
+## Current Project: Pharma Supply Intelligence
+
+```mermaid
+flowchart LR
+    A[7 Free APIs] --> B[Neo4j + Qdrant]
+    B --> C[Multi-Signal<br/>Anomaly Detection]
+    C --> D[LangGraph<br/>Deep Agent]
+    D --> E[Governance<br/>+ Audit]
+    D --> F[Human Review]
+```
+
+Building an autonomous AI platform that monitors pharma supply data, detects anomalies using **rules + statistical + graph + semantic** signals, and validates them via a **LangGraph agent with MCP tools** — with full **governance, audit trails, and human-in-the-loop**.
+
+→ [github.com/milangeorge2000/pharma-supply-intelligence](https://github.com/milangeorge2000/pharma-supply-intelligence)
 
 ---
 
