@@ -25,7 +25,7 @@ status: Building pharma supply intelligence platform
   <a href="https://www.linkedin.com/in/milan-george-744772188/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://milanvg6.substack.com/"><img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/AI%20Engineer-FF6F00?style=for-the-badge&logo=deeplearning&logoColor=white"/>
-  <img src="https://komarev.com/ghpvc/?username=milangeorge2000&style=for-the-badge&color=brightgreen"/>
+ 
 </div>
 
 ---
